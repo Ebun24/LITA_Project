@@ -34,3 +34,9 @@ Talk about the codes used e.g
 ```SQL
 Select * From Table 1
 Where Condition = True
+```
+
+### Data Visualization
+Where you have the documents upload chart
+  
+[Real data to work on.xlsx](https://github.com/user-attachments/files/17175553/Real.data.to.work.on.xlsx)
