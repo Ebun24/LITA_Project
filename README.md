@@ -1,6 +1,6 @@
 # LITA_Project
 
-## Project Title:E Commerce Sales Analysis
+## Project Title: Employee Analysis
 
 [Project Overview](#project-overview)
 
